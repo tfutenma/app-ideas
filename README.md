@@ -1,4 +1,7 @@
 # app-ideas
+
+![App Ideas Image](./app-ideas.png)
+
 For implementation of [app-ideas](https://github.com/florinpop17/app-ideas).
 
 #Tier-1: Beginner Projects
